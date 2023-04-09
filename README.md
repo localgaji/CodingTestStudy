@@ -64,5 +64,10 @@
 ```
 <br/>
 
+### 마크 다운 내 코드 입력 방법
+
+![dsfsf](https://user-images.githubusercontent.com/111048211/230786808-37e1a508-245e-4857-8ac2-2faec8f5cf79.PNG)
+
+
 해당 README 파일은 [이 게시글](https://github.com/kimdozzi/2023-codingtest-study)을 참고하여 작성하였습니다.
 
