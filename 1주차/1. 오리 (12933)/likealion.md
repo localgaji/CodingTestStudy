@@ -3,27 +3,33 @@
 풀이 설명 & 과정
 
 ``` python
-코드 입력하기 :  
-첫줄에 backtick ( ` ) 3개 + 언어이름 입력    
-다음줄에 코드 복붙  
-마지막줄에 backtick 3개 입력
+s = input()
+dic = {'q':1, "u":2, 'a':3, 'c':4, 'k':5}
+ducks = []
+for i in s:
+    if dic[i] - 1 in ducks:
+        for n in range(len(ducks)):
+            if dic[i] - 1 == ducks[n]:
+                ducks[n] = dic[i]
+                if ducks[n] == 5:
+                    ducks[n] = 0
+                break
+    else:
+        if dic[i] == 1:
+            ducks.append(1)
+        else:
+            print(-1)
+            quit()
+        
+if len(set(ducks)) > 1 or list(set(ducks))[0] != 0:
+    print(-1)
+    quit()
+print(len(ducks))
 ```
 
-실행 시간 : 000ms    
-사용 공간 : 0000MB  
-풀이 시간 : 00분  
-
-#### 풀이 2. 풀이 제목
-
-풀이 설명 & 과정
-
-``` python
-code
-```
-
-실행 시간 : 000ms    
-사용 공간 : 0000MB  
-풀이 시간 : 00분  
+실행 시간 : 52ms    
+사용 공간 : 31256KB  
+풀이 시간 : 35분  
 
 ---
 
