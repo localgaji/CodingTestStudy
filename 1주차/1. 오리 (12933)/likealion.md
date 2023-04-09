@@ -1,6 +1,4 @@
-#### 풀이 1. 풀이 제목
-
-풀이 설명 & 과정
+#### 풀이 1. 문자를 숫자화, 리스트 사용
 
 ``` python
 s = input()
@@ -9,8 +7,9 @@ ducks = []
 for i in s:
     if dic[i] - 1 in ducks:
         for n in range(len(ducks)):
+            
             if dic[i] - 1 == ducks[n]:
-                ducks[n] = dic[i]
+                ducks[n] += 1
                 if ducks[n] == 5:
                     ducks[n] = 0
                 break
@@ -37,4 +36,6 @@ print(len(ducks))
   + (있으면 작성)
 
 #### 어려웠던 점
-  + (있으면 작성)
+  + `ducks`에서 `dic[i]-1` 요소를 찾아서 변경할 때, 요소를 하나 찾아서 바꿨으면 `break` 해줘야 함 -> 1차틀림  
+  + 순회 마친 후 `ducks` 리스트에 오직 `0`만 남아있어야 함 -> 2차틀림  
+  + `len` 함수, `set`함수를 써도 괜찮은걸까
