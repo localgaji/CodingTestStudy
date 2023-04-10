@@ -18,7 +18,7 @@ rl.on("close", () => {
   process.exit();
 });
 
-// 반복문을 돌면서 음절의 수를 세고, 그 수가 q >= u >= a >= c >= k면 오류가 없다고 가정하고 반복문 작성
+// 반복문을 돌면서 음절의 수를 세고, 그 수가 q >= u >= a >= c >= k면 오류가 없다고 가정하고 반복문 진행
 const solution = () => {
   let result = -Infinity;
   const sound = "quack";
@@ -40,7 +40,8 @@ const solution = () => {
     }
     result = Math.max(result, ducks[0] - ducks[4]);
   }
-  //울다 말았을 경우 -1 ex) [5,5,5,5,5] 정상
+  //반복문이 다 진행된 후에         [5,5,5,5,5] 정상 => result
+  //울다 말았을 경우              [4,4,4,4,3] 비정상 => -1
   return ducks[0] === ducks[4] ? result : -1;
 };
 ```
@@ -50,7 +51,7 @@ const solution = () => {
 풀이 시간 : 10분
 
 ```js
-//ducks 배열에 각각의 오리가 낼 다음 소리에 대한 인덱스를 저장하고 앞의 오리부터 탐색하며 일치하면 다음 소리를 val을 +1 하여 다음 인덱스를 찾도록함
+//ducks 배열에 각각의 오리가 낼 다음 소리에 대한 인덱스를 저장하고 앞의 오리부터 탐색하며 일치하면 오리의 값을 +1 하여 다음 음절과 일치하도록 기다림.
 //ducks ['qua','qu','q'] => [3,2,1]
 const solution = () => {
   let result = -Infinity;
@@ -64,13 +65,13 @@ const solution = () => {
       continue;
     }
 
-    let flag = false; // 현재 소리를 낼 수 있는 오리가 있으면 true
+    let flag = false; // 현재 소리를 낼 수 있는 오리가 있으면 반복문 안에서 True로 전환
     for (let duckIdx = 0; duckIdx < ducks.length; duckIdx++) {
       const nextSound = ducks[duckIdx];
       if (sound[nextSound] === current) {
         ducks[duckIdx]++;
         flag = true;
-        //ducks의 요소가 5면 모든 소리를 낸 경우라 spice로 배열 삭제
+        //ducks의 요소가 5면 모든 소리를 낸 경우라 splice로 배열 삭제
         if (ducks[duckIdx] === 5) ducks.splice(duckIdx, 1);
         break;
       }
@@ -94,7 +95,7 @@ const solution = () => {
 
 #### 어려웠던 점
 
-- solution 2에서 들리는 소리가 q면 새로운 오리로 추가하고 다음 소리로 바로 넘어갔는데 qk가 연달아 나오는 경우 집계가 안되는 경우가 있었음
+- solution 2에서 input값이 'q'면 새로운 오리로 추가하고 다음 input 값으로 바로 넘어갔는데 'q','k'가 연달아 나오는 경우 집계가 안되는 경우가 있었음
 
 ['quac'] => [4]
 q가 들어오면 ['quac','q']인데 바로 continue해서 result에 반영 X
