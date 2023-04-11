@@ -1,5 +1,16 @@
 # 코테 스터디
-<br/>
+<br/><br/>
+
+### 1주차
+날짜 | 플랫폼 | 제목
+--|--|--
+1 일차 | 코드트리	| [외주 수익 최대화하기](https://www.codetree.ai/training-field/frequent-problems/max-of-outsourcing-profit/)
+2 일차 | 코드트리	| [조삼모사](https://www.codetree.ai/training-field/frequent-problems/three-at-dawn-and-four-at-dusk/)
+3 일차 | 코드트리	| [연산자 배치하기](https://www.codetree.ai/training-field/frequent-problems/arrange-operator)
+4 일차 | 코드트리	| [테트리스 블럭 안의 합 최대화 하기](https://www.codetree.ai/training-field/frequent-problems/max-sum-of-tetris-block/)
+5 일차 | 코드트리	| [자율주행 자동차](https://www.codetree.ai/training-field/frequent-problems/autonomous-driving)
+
+<br/><br/>
 
 ## 참여 방법
 1. 이 저장소를 fork 한다.
