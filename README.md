@@ -1,6 +1,15 @@
 # 코테 스터디
 <br/><br/>
 
+### 2주차
+날짜 | 플랫폼 | 제목
+--|--|--
+1 일차 | 코드트리	| [정육면체 굴리기](https://www.codetree.ai/training-field/frequent-problems/cube-rounding/)
+2 일차 | 코드트리	| [방화벽 설치하기](https://www.codetree.ai/training-field/frequent-problems/firewall-installation/)
+3 일차 | 코드트리	| [돌아가는 팔각의자](https://www.codetree.ai/training-field/frequent-problems/rounding-eight-angle/)
+4 일차 | 코드트리	| [병원 거리 최소화하기](https://www.codetree.ai/training-field/frequent-problems/min-of-hospital-distance)
+5 일차 | 코드트리	| [토스트 계란틀](https://www.codetree.ai/training-field/frequent-problems/toast-eggmold/)
+
 ### 1주차
 날짜 | 플랫폼 | 제목
 --|--|--
@@ -20,7 +29,7 @@
 4. 양식에 맞게 풀이를 작성한다.
 5. 원본 저장소로 Pull Request를 한다.   
 6. 다른 사람 PR에 자유롭게 코드 리뷰를 한다.
-7. 리뷰가 완료되면 Merge 한다. 
+7. 리뷰가 완료되면 Merge 하겠습니다. 
 <br/>
   
 + 상세 설명 참고 : https://waytocse.tistory.com/59  
