@@ -7,7 +7,7 @@ data = [(0, 0)]
 
 for _ in range(n):
     t, p = map(int, input().split())
-    data.append((t, p))
+    data.append((t, p)) 
 
 for i in range(1, n+1): #i는 일을 시작하는 날짜, data[i][0]은 일에 걸리는 시간
     if i + data[i][0] - 1 > n: #일을 시작하는 날도 일을 할 수 있으므로 1를 빼준다.
