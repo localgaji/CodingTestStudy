@@ -59,7 +59,7 @@ for d in directions:
 ```
 
 Runtime: 103ms  
-Memory: 33MB
+Memory: 33MB  
 풀이 시간 : 63분  
 
 --- 
