@@ -5,23 +5,16 @@
 주차 폴더 > 본인 이름 폴더 > 풀이 파일  
 `ex) 2주차 / likearyan / 1. 정육면체 굴리기.md` 
 
-### 2주차
+### 3주차
 날짜 | 플랫폼 | 제목
 --|--|--
-1 일차 | 코드트리	| [정육면체 굴리기](https://www.codetree.ai/training-field/frequent-problems/cube-rounding/)
-2 일차 | 코드트리	| [방화벽 설치하기](https://www.codetree.ai/training-field/frequent-problems/firewall-installation/)
-3 일차 | 코드트리	| [돌아가는 팔각의자](https://www.codetree.ai/training-field/frequent-problems/rounding-eight-angle/)
-4 일차 | 코드트리	| [병원 거리 최소화하기](https://www.codetree.ai/training-field/frequent-problems/min-of-hospital-distance)
-5 일차 | 코드트리	| [토스트 계란틀](https://www.codetree.ai/training-field/frequent-problems/toast-eggmold/)
+1 일차 | 코드트리	| [이상한 체스](https://www.codetree.ai/training-field/frequent-problems/odd-chess)
+2 일차 | 코드트리	| [불안한 무빙워크](https://www.codetree.ai/training-field/frequent-problems/unstable-moving-walk)
+3 일차 | 코드트리	| [드래곤 커브](https://www.codetree.ai/training-field/frequent-problems/dragon-curve/)
+4 일차 | 코드트리	| [나무 타이쿤](https://www.codetree.ai/training-field/frequent-problems/tree-tycoon/)
+5 일차 | 코드트리	| [놀이기구 탑승](https://www.codetree.ai/training-field/frequent-problems/go-on-the-rides/)
+6 일차 | 코드트리	| [원자 충돌](https://www.codetree.ai/training-field/frequent-problems/atom-collision/)
 
-### 1주차
-날짜 | 플랫폼 | 제목
---|--|--
-1 일차 | 코드트리	| [외주 수익 최대화하기](https://www.codetree.ai/training-field/frequent-problems/max-of-outsourcing-profit/)
-2 일차 | 코드트리	| [조삼모사](https://www.codetree.ai/training-field/frequent-problems/three-at-dawn-and-four-at-dusk/)
-3 일차 | 코드트리	| [연산자 배치하기](https://www.codetree.ai/training-field/frequent-problems/arrange-operator)
-4 일차 | 코드트리	| [테트리스 블럭 안의 합 최대화 하기](https://www.codetree.ai/training-field/frequent-problems/max-sum-of-tetris-block/)
-5 일차 | 코드트리	| [자율주행 자동차](https://www.codetree.ai/training-field/frequent-problems/autonomous-driving)
 
 <br/><br/>
 
