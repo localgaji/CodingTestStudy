@@ -1,0 +1,60 @@
+#### 풀이 1. 그냥 설명에 맞게 구현하기
+
+
+```python
+n, k = map(int, input().split())
+rail = list(map(int, input().split()))
+
+
+def walk(j:int):
+    # n번 칸일때 : 내리기
+    if j + 1 == n:
+        people[j] = 0
+    
+    # 앞으로 한칸 걷기
+    elif people[j + 1] == 0 and rail[j+1] > 0:
+        people[j] = 0
+        people[j+1] = 1
+        rail[j+1] -= 1
+
+        # 걷고나니까 n번째칸일 때 : 내리기
+        if j + 1 == n - 1:
+            people[j+1] = 0
+
+
+count = 0
+people = [0] * n
+
+while rail.count(0) < k:
+    count += 1
+
+    # 1번 과정 
+    rail = [rail[-1]] + rail[:-1]
+    people = [0] + people[:-1]
+
+    # 2번 과정 
+    for i in range(n - 1, -1, -1):
+        p = people[i]
+        if p == 1:
+            walk(i)
+    
+    # 3번 과정
+    if people[0] == 0 and rail[0] > 0:
+        people[0] = 1
+        rail[0] -= 1
+
+print(count)
+```
+
+Runtime: 453ms  
+Memory: 34MB  
+풀이 시간 : 70분  
+
+--- 
+
+#### 새롭게 알게된 점
+  + X
+
+#### 어려웠던 점
+  + 
+  
