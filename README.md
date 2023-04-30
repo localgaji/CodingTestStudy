@@ -70,5 +70,11 @@
 ![dsfsf](https://user-images.githubusercontent.com/111048211/230786808-37e1a508-245e-4857-8ac2-2faec8f5cf79.PNG)
 
 
+### 발표
+- 매주 화요일 오후 8시 (1시간 이하 소요)
+- 해당 주차에 풀었던 6문제를 인당 1~2문제씩 랜덤 배정하여 풀이과정 설명
+- 질의응답, 다른 풀이 주고받기
+
+
 해당 README 파일은 [이 게시글](https://github.com/kimdozzi/2023-codingtest-study)을 참고하여 작성하였습니다.
 
