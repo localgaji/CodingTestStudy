@@ -5,6 +5,22 @@
 주차 폴더 > 본인 이름 폴더 > 풀이 파일  
 `ex) 2주차 / likearyan / 1. 정육면체 굴리기.md` 
 
+<br/><br/>
+
+## 4주차
+| 날짜 | 플랫폼 | 문제 이름 | 
+|:--:|:----:|:---------:| 
+| 1일차 | 백준 | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) | 
+| 1일차 | 백준 | [택배 배송](https://www.acmicpc.net/problem/5972) | 
+| 2일차 | 백준 | [백도어](https://www.acmicpc.net/problem/17396) | 
+| 3일차 | 백준 | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+| 4일차 | 백준 | [2+1 세일](https://www.acmicpc.net/problem/11508) | 
+| 4일차 | 백준 | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) | 
+| 5일차 | 백준 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
+| 6일차 | 백준 | [Guess](https://www.acmicpc.net/problem/1248) |
+
+<br/><br/>
+
 ### 3주차
 날짜 | 플랫폼 | 제목
 --|--|--
@@ -21,13 +37,13 @@
 ## 참여 방법
 1. 이 저장소를 fork 한다.
 2. 본인 GitHub에 생성된 원격 저장소로 간다. 
-3. 해당 주차 > 해당 일자(문제) 폴더로 가서 본인 이름으로 된 파일을 생성한다.
-   + 파일명 : `이름.md`
+3. 해당 주차 > 본인이름 폴더로 가서 파일을 생성한다.
+   + 파일명 : `n. 문제 이름.md`
 4. 양식에 맞게 풀이를 작성한다.
 5. 원본 저장소로 Pull Request를 한다.    
 <br/>
   
-+ 상세 설명 참고 : https://waytocse.tistory.com/59  
+[상세 설명 참고](https://waytocse.tistory.com/59)
 <br/><br/><br/>
     
 ## PR 규칙
@@ -68,6 +84,12 @@
 ### 마크 다운 내 코드 입력 방법
 
 ![dsfsf](https://user-images.githubusercontent.com/111048211/230786808-37e1a508-245e-4857-8ac2-2faec8f5cf79.PNG)
+
+
+### 발표
+- 매주 화요일 오후 8시 (1시간 이하 소요)
+- 해당 주차에 풀었던 6문제를 인당 1~2문제씩 랜덤 배정하여 풀이과정 설명
+- 질의응답, 다른 풀이 주고받기
 
 
 해당 README 파일은 [이 게시글](https://github.com/kimdozzi/2023-codingtest-study)을 참고하여 작성하였습니다.
