@@ -5,6 +5,22 @@
 주차 폴더 > 본인 이름 폴더 > 풀이 파일  
 `ex) 2주차 / likearyan / 1. 정육면체 굴리기.md` 
 
+<br/><br/>
+
+## 4주차
+| 날짜 | 플랫폼 | 문제 이름 | 
+|:--:|:----:|:---------:| 
+| 1일차 | 백준 | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) | 
+| 1일차 | 백준 | [택배 배송](https://www.acmicpc.net/problem/5972) | 
+| 2일차 | 백준 | [백도어](https://www.acmicpc.net/problem/17396) | 
+| 3일차 | 백준 | [비즈 공예](https://www.acmicpc.net/problem/1301) |
+| 4일차 | 백준 | [2+1 세일](https://www.acmicpc.net/problem/11508) | 
+| 4일차 | 백준 | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) | 
+| 5일차 | 백준 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
+| 6일차 | 백준 | [Guess](https://www.acmicpc.net/problem/1248) |
+
+<br/><br/>
+
 ### 3주차
 날짜 | 플랫폼 | 제목
 --|--|--
