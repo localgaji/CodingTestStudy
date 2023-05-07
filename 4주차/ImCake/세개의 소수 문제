@@ -1,0 +1,98 @@
+#### 풀이 세개의 소수 문제
+
+풀이 설명 & 과정 (또는 코드 중간에 주석 작성)
+소수로 이루어진 배열을 먼저 샏성, 이후 3중 for문을 활용하여
+완전탐색을 수행한다. 최댓값이 1000이하이므로 3중 for 문을 사용하는데
+시간복잡도의 문제는 없었다.
+
+코드 입력하기
+```
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
+
+using namespace std;
+
+vector<int> prime;
+vector<int> answer;
+
+
+bool isPrime(int x) {
+	bool primeFlag = true;
+	for (int i = x - 1; i > 1; i--) {
+		if (x % i == 0) {
+			primeFlag = false;
+		}
+	}
+	if (primeFlag) {
+		return true;
+	}
+	else {
+		return false;
+	}
+}
+
+int main(void) {
+
+	ios::sync_with_stdio(false);
+	cin.tie(0);
+	cout.tie(0);
+
+	for (int i = 2; prime.size() < 1000; i++) {
+		if (isPrime(i) == 1) {
+			prime.push_back(i);
+		}
+	}
+
+	int num;
+	cin >> num;
+
+	int test[1000];
+	for (int i = 0; i < num; i++) {
+		cin >> test[i];
+	}
+
+	for (int j = 0; j < num; j++) {
+		bool flag = false;
+		
+		for (int a = 0; a < prime.size(); a++) {
+			for (int b = 0; b < prime.size(); b++) {
+				for (int c = 0; c < prime.size(); c++) {
+					if (prime[a] + prime[b] + prime[c] <= test[j]) {
+						if (prime[a] + prime[b] + prime[c] == test[j]) {
+							cout << prime[a] << " " << prime[b] << " " << prime[c] << "\n";
+							flag = true;
+							break;
+						}
+					}
+					if (flag == true) {
+						break;
+					}
+				}
+				if (flag == true) {
+					break;
+				}
+			}
+			if (flag == true) {
+				break;
+			}
+		}
+	}
+	
+
+	return 0;
+}
+```
+
+실행 시간 : 000ms    
+사용 공간 : 0000KB  
+풀이 시간 : 15분  
+
+--- 
+
+#### 새롭게 알게된 점
+  + (있으면 작성)
+
+#### 어려웠던 점
+  + (있으면 작성)
