@@ -7,6 +7,20 @@
 
 <br/><br/>
 
+## 6주차 
+
+| 날짜 | 문제 이름 |
+|:------:|:---------:|
+| 1일차 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
+| 1일차 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |
+| 2일차 | [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186) |
+| 3일차 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
+| 4일차 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
+| 4일차 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
+| 5일차 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
+| 6일차 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
+
+
 ## 5주차 
 
 | 날짜 | 번호 | 문제 이름 |
@@ -19,20 +33,6 @@
 | 4일차 | [17836](https://www.acmicpc.net/problem/17836) | [공주님을 구해라!](https://www.acmicpc.net/problem/17836) |
 | 5일차 | [17208](https://www.acmicpc.net/problem/17208) | [카우버거 알바생](https://www.acmicpc.net/problem/17208) |
 | 6일차 | [17471](https://www.acmicpc.net/problem/17471) | [게리맨더링](https://www.acmicpc.net/problem/17471) |
-
-<br/><br/>
-
-## 4주차
-| 날짜 | 플랫폼 | 문제 이름 | 
-|:--:|:----:|:---------:| 
-| 1일차 | 백준 | [세 개의 소수 문제](https://www.acmicpc.net/problem/11502) | 
-| 1일차 | 백준 | [피보나치는 지겨웡~](https://www.acmicpc.net/problem/17175) |
-| 2일차 | 백준 | [백도어](https://www.acmicpc.net/problem/17396) | 
-| 3일차 | 백준 | [비즈 공예](https://www.acmicpc.net/problem/1301) |
-| 4일차 | 백준 | [2+1 세일](https://www.acmicpc.net/problem/11508) | 
-| 4일차 | 백준 | [소가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17128) | 
-| 5일차 | 백준 | [택배 배송](https://www.acmicpc.net/problem/5972) | 
-| 6일차 | 백준 | [Guess](https://www.acmicpc.net/problem/1248) |
 
 <br/><br/>
 
