@@ -7,6 +7,22 @@
 
 <br/><br/>
 
+## 8주차 
+
+| 문제 | 문제 이름 |
+|:------:|:---------:|
+| 1 | [파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |
+| 2 | [프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679) |
+| 3 | [신규 아이디 추천](https://school.programmers.co.kr/learn/courses/30/lessons/72410) |
+| 4 | [순위 검색](https://school.programmers.co.kr/learn/courses/30/lessons/72412) |
+| 5 | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
+| 6 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
+| 7 | [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |
+| 8 | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |
+
+<br/><br/>
+
+
 ## 7주차 
 
 | 문제 | 문제 이름 |
@@ -19,21 +35,6 @@
 | 6 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
 | 7 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
 | 8 | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
-
-<br/><br/>
-
-## 6주차 
-
-| 날짜 | 문제 이름 |
-|:------:|:---------:|
-| 1일차 | [요격 시스템](https://school.programmers.co.kr/learn/courses/30/lessons/181188) |
-| 1일차 | [두 원 사이의 정수 쌍](https://school.programmers.co.kr/learn/courses/30/lessons/181187) |
-| 2일차 | [아방가르드 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/181186) |
-| 3일차 | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988) |
-| 4일차 | [리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199) |
-| 4일차 | [과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962) |
-| 5일차 | [광물 캐기](https://school.programmers.co.kr/learn/courses/30/lessons/172927) |
-| 6일차 | [인사고과](https://school.programmers.co.kr/learn/courses/30/lessons/152995) |
 
 <br/><br/>
 
