@@ -7,6 +7,22 @@
 
 <br/><br/>
 
+## 9주차 
+
+| 문제 | 문제 이름 |
+|:------:|:---------:|
+| 1 | [압축](https://school.programmers.co.kr/learn/courses/30/lessons/17684) |
+| 2 | [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365) |
+| 3 | [메뉴 리뉴얼](https://school.programmers.co.kr/learn/courses/30/lessons/72411) |
+| 4 | [양궁대회](https://school.programmers.co.kr/learn/courses/30/lessons/92342) |
+| 5 | [카드 짝 맞추기](https://school.programmers.co.kr/learn/courses/30/lessons/72415) |
+| 6 | [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653) |
+| 7 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) |
+| 8 | [풍선 터트리기](https://school.programmers.co.kr/learn/courses/30/lessons/68646) |
+
+<br/><br/>
+
+
 ## 8주차 
 
 | 문제 | 문제 이름 |
@@ -19,22 +35,6 @@
 | 6 | [문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057) |
 | 7 | [방금그곡](https://school.programmers.co.kr/learn/courses/30/lessons/17683) |
 | 8 | [숫자 타자 대회](https://school.programmers.co.kr/learn/courses/30/lessons/136797) |
-
-<br/><br/>
-
-
-## 7주차 
-
-| 문제 | 문제 이름 |
-|:------:|:---------:|
-| 1 | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539) |
-| 2 | [무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540) |
-| 3 | [호텔 대실](https://school.programmers.co.kr/learn/courses/30/lessons/155651) |
-| 4 | [표 병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366) |
-| 5 | [미로 탈출](https://school.programmers.co.kr/learn/courses/30/lessons/159993) |
-| 6 | [혼자서 하는 틱택토](https://school.programmers.co.kr/learn/courses/30/lessons/160585) |
-| 7 | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
-| 8 | [표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |
 
 <br/><br/>
 
