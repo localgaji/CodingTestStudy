@@ -7,27 +7,18 @@
 
 <br/>
 
-## 12주차 
+## 13주차
 
 | 문제 | 문제 이름 |
 |:------:|:---------:|
-| 1 | [같이 눈사람 만들래?](https://www.acmicpc.net/problem/20366) |
-| 2 | [RGB거리 2](https://www.acmicpc.net/problem/17404) |
-| 3 | [학부 연구생 민상](https://www.acmicpc.net/problem/21922) |
+| 1 | [수](https://www.acmicpc.net/problem/22943) |
+| 2 | [달빛 여우](https://www.acmicpc.net/problem/16118) |
+| 3 | [이모티콘](https://www.acmicpc.net/problem/14226) |
+| 4 | [꿈틀꿈틀 호석 애벌레](https://www.acmicpc.net/problem/20181) |
+| 5 | [인싸들의 가위바위보](https://www.acmicpc.net/problem/16986) |
 
 <br/>
 
-## 11주차 
-
-| 문제 | 문제 이름 |
-|:------:|:---------:|
-| 1 | [파이프 옮기기 1](https://www.acmicpc.net/problem/17070) |
-| 2 | [문자열 지옥에 빠진 호석](https://www.acmicpc.net/problem/20166) |
-| 3 | [알파벳](https://www.acmicpc.net/problem/1987) |
-| 4 | [크게 만들기](https://www.acmicpc.net/problem/2812) |
-| 5 | [준표의 조약돌](https://www.acmicpc.net/problem/15831) |
-
-<br/>
 
 ## 참여 방법
 1. 이 저장소를 fork 한다.
@@ -76,8 +67,8 @@
 <br/>
 
 ### 발표
-- 매주 화요일 오후 8시 (1시간 이하 소요)
-- 해당 주차에 풀었던 6문제를 인당 1~2문제씩 랜덤 배정하여 풀이과정 설명
+- 매주 수요일 오후 9시 (1시간 이하 소요)
+- 해당 주차에 풀었던 문제를 인당 1~2문제씩 랜덤 배정하여 풀이과정 설명
 - 질의응답, 다른 풀이 주고받기
 
 
